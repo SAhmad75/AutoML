@@ -24,6 +24,7 @@ Athena AutoML is a web application for building automated machine learning pipel
     ```bash
     cd AutoML
     ```
+Note: This project requires Python 3.11. Ensure you are using this version when setting up your virtual environment.
 
 3. Set up a virtual environment (optional but recommended):
     ```bash
