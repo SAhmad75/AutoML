@@ -8,6 +8,7 @@ Athena AutoML is a web application for building automated machine learning pipel
 
 - Upload and preprocess datasets
 - Select and train various machine learning models
+- Choose whether you want to do encoding 
 - Perform hyperparameter tuning
 - Evaluate and compare model performance
 - Download and save trained models
