@@ -22,7 +22,7 @@ Athena AutoML is a web application for building automated machine learning pipel
 
 2. Navigate to the project directory:
     ```bash
-    cd athena-automl
+    cd AutoML
     ```
 
 3. Set up a virtual environment (optional but recommended):
@@ -45,9 +45,15 @@ Athena AutoML is a web application for building automated machine learning pipel
 
 2. Open the local URL in your browser (e.g., `http://localhost:8501`).
 
+## Encoding 
+
+To enable encoding, check the relevant checkbox in the app and configure the required columns.
+
 ## Hyperparameter Tuning
 
 To enable hyperparameter tuning, check the relevant checkbox in the app and configure the parameters as needed.
+
+
 
 ## Contributing
 
